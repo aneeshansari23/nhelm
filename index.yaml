@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-11-21T03:05:51.354683097Z"
+    description: A demo helm chart
+    digest: 91fc5d2ebdb23746f4b05da7a9a4e25de80b7de7b9c93e20d0d17783ce195c00
+    name: myapp
+    type: application
+    urls:
+    - myapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-21T03:05:51.354129182Z"
